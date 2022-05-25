@@ -18,5 +18,5 @@
 #    59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.             #
 ############################################################################
 
-def load(operator, context, filepath = ""):
+def load(context, filepath):
   return {"FINISHED"}

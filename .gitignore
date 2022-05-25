@@ -1,2 +1,5 @@
 pycache
 *.pyc
+build/
+src/io_scene_urdf.zip
+
